@@ -1,0 +1,14 @@
+{
+    "Metro Manila": ["Manila", "Quezon City", "Makati", "Taguig", "Pasig", "Mandaluyong", "Parañaque", "Las Piñas", "Muntinlupa", "Pasay", "Caloocan", "Malabon", "Navotas", "Valenzuela", "San Juan", "Marikina", "Pateros"],
+    "Cavite": ["Bacoor", "Imus", "Dasmariñas", "Cavite City", "Tagaytay", "Trece Martires"],
+    "Laguna": ["San Pedro", "Biñan", "Santa Rosa", "Cabuyao", "Calamba", "San Pablo"],
+    "Rizal": ["Antipolo", "Cainta", "Taytay", "Angono", "Binangonan"],
+    "Bulacan": ["Malolos", "Meycauayan", "San Jose del Monte", "Bocaue", "Marilao"],
+    "Pampanga": ["Angeles", "San Fernando", "Mabalacat", "Mexico", "Magalang"],
+    "Batangas": ["Batangas City", "Lipa", "Tanauan", "Sto. Tomas", "Malvar"],
+    "Quezon": ["Lucena", "Tayabas", "Sariaya", "Candelaria", "Tiaong"],
+    "Bataan": ["Balanga", "Dinalupihan", "Orani", "Mariveles", "Limay"],
+    "Nueva Ecija": ["Cabanatuan", "Gapan", "Palayan", "San Jose", "Science City of Muñoz"],
+    "Tarlac": ["Tarlac City", "Concepcion", "Capas", "Bamban", "Paniqui"]
+  }
+  

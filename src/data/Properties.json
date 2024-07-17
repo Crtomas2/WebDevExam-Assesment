@@ -1,0 +1,344 @@
+{
+    "Metro Manila": {
+      "Taguig": [
+        {
+          "name": "Hotel101-Fort",
+          "propertyType": "Hotel",
+          "address": "C5, corner Target Street, Taguig, Metro Manila",
+          "city": "Taguig"
+        },
+        {
+          "name": "F1 Hotel Manila",
+          "propertyType": "Hotel",
+          "address": "32nd Street, Bonifacio Global City, Taguig",
+          "city": "Taguig"
+        },
+        {
+          "name": "Shangri-La The Fort, Manila",
+          "propertyType": "Hotel",
+          "address": "30th Street, Bonifacio Global City, Taguig",
+          "city": "Taguig"
+        },
+        {
+          "name": "Ascott Bonifacio Global City Manila",
+          "propertyType": "Condominium",
+          "address": "5th Avenue, corner 28th St, Taguig, 1634 Metro Manila",
+          "city": "Taguig"
+        },
+        {
+          "name": "RedDoorz near Arca South Taguig",
+          "propertyType": "Hotel",
+          "address": "South Signal Village, Taguig",
+          "city": "Taguig"
+        },
+        {
+          "name": "Migz N Tons Place at Cypress Towers",
+          "propertyType": "Hotel",
+          "address": " C5, Corner Diego Silang, Taguig, 1200 Metro Manila",
+          "city": "Taguig"
+        },
+        {
+          "name": "One Serendra",
+          "propertyType": "Condominium",
+          "address": "McKinley Pkwy, BGC, Taguig, Philippines",
+          "city": "Taguig"
+        },
+        {
+          "name": "Park Triangle Residences",
+          "propertyType": "Condominium",
+          "address": "11th Ave, BGC, Taguig, Philippines",
+          "city": "Taguig"
+        },
+        {
+          "name": "Two Maridien",
+          "propertyType": "Condominium",
+          "address": "26th St, BGC, Taguig, Philippines",
+          "city": "Taguig"
+        }
+      ],
+      "Pasay": [
+        {
+          "name": "Conrad Manila",
+          "propertyType": "Hotel",
+          "address": "Seaside Boulevard, Coral Way, Pasay, 1300 Metro Manila",
+          "city": "Pasay"
+        },
+        {
+          "name": "Microtel by Wyndham Mall of Asia",
+          "propertyType": "Hotel",
+          "address": "Seaside Blvd, Manila, 1308 Metro Manila",
+          "city": "Pasay"
+        },
+        {
+          "name": "Holiday Inn Express Manila Newport City",
+          "propertyType": "Hotel",
+          "address": "1 Jasmine Dr, Pasay, 1309 Metro Manila",
+          "city": "Pasay"
+        },
+        {
+          "name": "Shell Residences",
+          "propertyType": "Condominium",
+          "address": "Mall of Asia, Pasay, 1300 Metro Manila",
+          "city": "Pasay"
+        },
+        {
+          "name": "Sea Residences",
+          "propertyType": "Condominium",
+          "address": "Pearl Drive Cor Sunrise Drive, Pasay, 1300 Metro Manila",
+          "city": "Pasay"
+        },
+        {
+          "name": "Fairway Terraces",
+          "propertyType": "Condominium",
+          "address": "G2GF+6P4, Villamor Airbase, Pasay, 1309 Metro Manila",
+          "city": "Pasay"
+        }
+
+      ],
+      "Makati": [
+        {
+          "name": "The Beacon",
+          "propertyType": "Condominium",
+          "address": "Don Chino Roces Ave, Makati, Philippines",
+          "city": "Makati"
+        },
+        {
+          "name": "Salcedo Skysuites",
+          "propertyType": "Condominium",
+          "address": "H.V. Dela Costa, Salcedo Village, Makati, Philippines",
+          "city": "Makati"
+        },
+        {
+          "name": "One Legaspi Park",
+          "propertyType": "Condominium",
+          "address": "Rada St, Legaspi Village, Makati, Philippines",
+          "city": "Makati"
+        },
+        {
+          "name": "The Gramercy Residences",
+          "propertyType": "Condominium",
+          "address": "Kalayaan Ave, Makati, Philippines",
+          "city": "Makati"
+        },
+        {
+          "name": "The Shang Grand Tower",
+          "propertyType": "Condominium",
+          "address": "Perea St, Legaspi Village, Makati, Philippines",
+          "city": "Makati"
+        },
+        {
+          "name": "Fairmont Makati",
+          "propertyType": "Hotel",
+          "address": "1, Raffles Drive, Makati Ave, Makati, 1224 Metro Manila",
+          "city": "Makati"
+        },
+        {
+          "name": "Makati Shangri-La",
+          "propertyType": "Hotel",
+          "address": "Ayala Ave, Makati, 1200 Metro Manila",
+          "city": "Makati"
+        },
+        {
+          "name": "New World Makati Hotel",
+          "propertyType": "Hotel",
+          "address": "corner Makati Avenue, Ayala Center, Esperanza St, Makati, 1228 Metro Manila",
+          "city": "Makati"
+        },
+        {
+          "name": "Dusit Thani Manila",
+          "propertyType": "Hotel",
+          "address": "Ayala Center, Makati, 1223 Metro Manila",
+          "city": "Makati"
+        },
+        {
+          "name": "The Peninsula Manila",
+          "propertyType": "Hotel",
+          "address": "1226 Makati Ave, Makati, Metro Manila",
+          "city": "Makati"
+        },
+        {
+          "name": "Century Diamond Tower",
+          "propertyType": "Offices",
+          "address": "1210, Kalakhang Maynila, Makati",
+          "city": "Makati"
+        }
+      ], "Manila": [
+        {
+          "name": "Two Adriatico Place",
+          "propertyType": "Condominium",
+          "address": "Ermita, Manila, Philippines",
+          "city": "Manila"
+        },
+        {
+          "name": "Le Mirage de Malate",
+          "propertyType": "Condominium",
+          "address": "Malate, Manila, Philippines",
+          "city": "Manila"
+        },
+        {
+          "name": "Grand Riviera Suites",
+          "propertyType": "Condominium",
+          "address": "Ermita, Manila, Philippines",
+          "city": "Manila"
+        },
+        {
+          "name": "Sorrel Residences",
+          "propertyType": "Condominium",
+          "address": "Sta. Mesa, Manila, Philippines",
+          "city": "Manila"
+        },
+        {
+          "name": "Manila Rivercity Residences",
+          "propertyType": "Condominium",
+          "address": "Sta. Ana, Manila, Philippines",
+          "city": "Manila"
+        }
+      ],
+      "Quezon City": [
+        {
+          "name": "The Crestmont",
+          "propertyType": "Condominium",
+          "address": "Panay Ave, Diliman, Quezon City, Philippines",
+          "city": "Quezon City"
+        },
+        {
+          "name": "Cameron Residences",
+          "propertyType": "Condominium",
+          "address": "Quezon Ave, Quezon City, Philippines",
+          "city": "Quezon City"
+        },
+        {
+          "name": "The Oriana",
+          "propertyType": "Condominium",
+          "address": "Aurora Blvd, Quezon City, Philippines",
+          "city": "Quezon City"
+        },
+        {
+          "name": "The Erin Heights",
+          "propertyType": "Condominium",
+          "address": "Commonwealth Ave, Quezon City, Philippines",
+          "city": "Quezon City"
+        },
+        {
+          "name": "One Delta Terraces",
+          "propertyType": "Condominium",
+          "address": "Banawe St, Quezon City, Philippines",
+          "city": "Quezon City"
+        }
+      ],
+      "Pasig": [
+        {
+          "name": "The Grove by Rockwell",
+          "propertyType": "Condominium",
+          "address": "E. Rodriguez Jr. Ave, Pasig, Philippines",
+          "city": "Pasig"
+        },
+        {
+          "name": "Lumiere Residences",
+          "propertyType": "Condominium",
+          "address": "Pasig Blvd, Pasig, Philippines",
+          "city": "Pasig"
+        },
+        {
+          "name": "The Sapphire Bloc",
+          "propertyType": "Condominium",
+          "address": "Sapphire Rd, Ortigas Center, Pasig, Philippines",
+          "city": "Pasig"
+        },
+        {
+          "name": "Ametta Place",
+          "propertyType": "Condominium",
+          "address": "Mercedes Ave, Pasig, Philippines",
+          "city": "Pasig"
+        },
+        {
+          "name": "Maven at Capitol Commons",
+          "propertyType": "Condominium",
+          "address": "Meralco Ave, Ortigas Center, Pasig, Philippines",
+          "city": "Pasig"
+        },
+        {
+          "name": "Maven at Capitol1 Commons",
+          "propertyType": "Condominium",
+          "address": "Meralco Ave, Ortigas Center, Pasig, Philippines",
+          "city": "Pasig"
+        }
+      ]
+    },
+      
+
+    "Pampanga": {
+      "Angeles": [
+        {
+          "name": "Marquee Residences",
+          "propertyType": "Condominium",
+          "address": "Aniceto Gueco St, Angeles, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "The Infinity",
+          "propertyType": "Condominium",
+          "address": "MacArthur Hwy, Balibago, Angeles, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "Montana Views",
+          "propertyType": "Condominium",
+          "address": "Brgy. Baliti, Angeles, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "Aspire Prime Residences",
+          "propertyType": "Condominium",
+          "address": "Friendship Hwy, Angeles, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "Azure North",
+          "propertyType": "Condominium",
+          "address": "Jose Abad Santos Ave, Angeles, Pampanga, Philippines",
+          "city": "Pampanga"
+        }
+      ],
+      "San Fernando": [
+        {
+          "name": "Aspire Residences",
+          "propertyType": "Condominium",
+          "address": "Jose Abad Santos Ave, San Fernando, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "SMDC Cheer Residences",
+          "propertyType": "Condominium",
+          "address": "Panipuan, San Fernando, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "Horizon Residences",
+          "propertyType": "Condominium",
+          "address": "Lazatin Blvd, San Fernando, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "Pampanga Premier Residences",
+          "propertyType": "Condominium",
+          "address": "Brgy. Del Pilar, San Fernando, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "West Wing Residences",
+          "propertyType": "Condominium",
+          "address": "Sindalan, San Fernando, Pampanga, Philippines",
+          "city": "Pampanga"
+        },
+        {
+          "name": "West Wing Residences",
+          "propertyType": "Hotel",
+          "address": "Sindalan, San Fernando, Pampanga, Philippines",
+          "city": "Pampanga"
+        }
+      ]
+
+    }
+  }
+  
