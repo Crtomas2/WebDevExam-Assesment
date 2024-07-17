@@ -71,7 +71,7 @@ const AboutUs = () => {
           component="img"
           className={classes.coverImage}
           alt="Building Image"
-          src="/building.jpg" // Assuming the image is in the public folder
+          src="/building1.jpg" // Assuming the image is in the public folder
         />
         <CardContent sx={{ backgroundColor: 'rgba(255, 255, 255, 0.7)', padding: theme.spacing(1) }}>
           <Typography variant="h4" component="div" align="center" style={responsiveFontSize}>
