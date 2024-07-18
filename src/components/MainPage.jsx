@@ -26,7 +26,7 @@ const useStyles = makeStyles((theme) => ({
     color: 'black',
   },
   cover: {
-    backgroundImage: `url(${process.env.PUBLIC_URL}/building.jpg)`,
+    backgroundImage: `url(${process.env.PUBLIC_URL}/Buildings.jpg)`,
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     height: 200,
@@ -193,7 +193,7 @@ const Home = () => {
     <div className={classes.root}>
       <AppBar position="static" className={classes.header}>
         <Toolbar className={classes.toolbar}>
-          <img src={`${process.env.PUBLIC_URL}/OVRealtyCorp.png`} alt="Logo" className={classes.logo} />
+          <img src={`${process.env.PUBLIC_URL}/ovrealtycorp.png`} alt="Logo" className={classes.logo} />
           <Typography variant="h6" className={classes.title}>
             OV REALTY CORP
           </Typography>
@@ -204,7 +204,7 @@ const Home = () => {
           About Us
         </Button>
         <Button component={NavLink} to="/Contact" activeClassName="active">
-          About Us
+         Contacts
         </Button>
         </Toolbar>
       </AppBar>

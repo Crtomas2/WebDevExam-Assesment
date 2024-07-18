@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 import { useTheme } from '@mui/material/styles';
 import LocationOnIcon from '@mui/icons-material/LocationOn';
 import PhoneIcon from '@mui/icons-material/Phone';
-import { NavLink } from 'react-router-dom'; // Import NavLink from react-router-dom
+import { NavLink } from 'react-router-dom';
 
 const useStyles = makeStyles((theme) => ({
   footer: {
@@ -73,20 +73,20 @@ const Contact = () => {
               marginRight: 2,
             }}
             alt="Company Logo"
-            src="/OVRealtyCorp.png" // Assuming the logo is in the public folder
+            src={`${process.env.PUBLIC_URL}/ovrealtycorp.png`}  // Assuming the logo is in the public folder
           />
           <Typography variant="h6">
             OV REALTY CORP
           </Typography>
-          <Button component={NavLink} to="/" exact activeClassName="active">
-          Home
-        </Button>
-        <Button component={NavLink} to="/About" activeClassName="active">
-          About Us
-        </Button>
-        <Button component={NavLink} to="/Contact" activeClassName="active">
-          Contact
-        </Button>
+          <Button component={NavLink} to="/" exact="true" activeClassName="active">
+            Home
+          </Button>
+          <Button component={NavLink} to="/About" exact="true" activeClassName="active">
+            About Us
+          </Button>
+          <Button component={NavLink} to="/Contact" exact="true" activeClassName="active">
+            Contact
+          </Button>
         </Toolbar>
       </AppBar>
       
@@ -96,7 +96,7 @@ const Contact = () => {
           component="img"
           className={classes.coverImage}
           alt="Building Image"
-          src="/building.jpg" // Assuming the image is in the public folder
+          src={`${process.env.PUBLIC_URL}/Buildings.jpg`} // Assuming the image is in the public folder
         />
         <CardContent sx={{ backgroundColor: 'rgba(255, 255, 255, 0.7)', padding: theme.spacing(1) }}>
           <Typography variant="h4" component="div" align="center" style={responsiveFontSize}>

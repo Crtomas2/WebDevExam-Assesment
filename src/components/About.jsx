@@ -48,7 +48,7 @@ const AboutUs = () => {
               marginRight: 2,
             }}
             alt="Company Logo"
-            src="/OVRealtyCorp.png" // Assuming the logo is in the public folder
+            src={`${process.env.PUBLIC_URL}/ovrealtycorp.png`} // Assuming the logo is in the public folder
           />
           <Typography variant="h6">
            OV REALTY CORP
@@ -71,7 +71,7 @@ const AboutUs = () => {
           component="img"
           className={classes.coverImage}
           alt="Building Image"
-          src="/building.jpg" // Assuming the image is in the public folder
+          src={`${process.env.PUBLIC_URL}/Buildings.jpg`} // Assuming the image is in the public folder
         />
         <CardContent sx={{ backgroundColor: 'rgba(255, 255, 255, 0.7)', padding: theme.spacing(1) }}>
           <Typography variant="h4" component="div" align="center" style={responsiveFontSize}>
@@ -96,7 +96,7 @@ const AboutUs = () => {
                   marginRight: theme.spacing(3),
                 }}
                 alt="Digital Marketing Icon"
-                src="/marketing.png" // Assuming the icon is in the public folder
+                src={`${process.env.PUBLIC_URL}/marketing.png`}  // Assuming the icon is in the public folder
               />
               <Typography variant="h5" component="div" gutterBottom>
                 Digital Marketing
@@ -120,7 +120,7 @@ const AboutUs = () => {
                 marginRight: theme.spacing(2),
               }}
               alt="Restaurant Icon"
-              src="/restaurant.png" // Assuming the icon is in the public folder
+              src={`${process.env.PUBLIC_URL}/restaurant.png`}  // Assuming the icon is in the public folder
             />
             <CardContent>
               <Typography variant="h5" component="div" gutterBottom>
