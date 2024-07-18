@@ -6,7 +6,7 @@ import AboutUS from './components/About';
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/WebDevAssesment"> {/* Set the basename */}
       <div className="App">
         <header className="App-header">
           {/* Navigation code if needed */}
